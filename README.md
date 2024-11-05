@@ -1,6 +1,13 @@
 **Superstore Analysis Dashboard**
 
 
+
+
+
+https://github.com/Rahul-1607/Superstore_forecasting_Dashboard/blob/main/Superstore_overview.png
+
+
+
 **Overview** 
 The Superstore Analysis Dashboard is designed to provide comprehensive insights into sales performance, enabling stakeholders to make informed decisions. This dashboard utilizes historical sales data to forecast future trends and compare performance year-over-year.
 
