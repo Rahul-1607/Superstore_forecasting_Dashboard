@@ -17,3 +17,11 @@ Creating running totals and averages for better trend analysis.
 Interactive Visualizations: Engage with various chart types (bar, line, pie charts, etc.) to visualize data effectively, allowing users to drill down into specific categories or regions.
 
 **Dynamic Filters**: Use slicers to filter data by categories such as region, product type, or time period, facilitating a more customized analysis experience.
+
+
+
+**Usage**:
+-> Navigate through the dashboard to explore various metrics.
+-> Use the interactive elements to filter data according to your preferences.
+-> Review the forecasting section to understand expected future sales trends.
+-> Compare current and previous year sales to assess business performance.
