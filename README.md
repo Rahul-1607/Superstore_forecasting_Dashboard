@@ -4,7 +4,8 @@
 
 
 
-https://github.com/Rahul-1607/Superstore_forecasting_Dashboard/blob/main/Superstore_overview.png
+<img width="671" alt="Superstore_overview" src="https://github.com/user-attachments/assets/f0e27a10-ac56-4e8d-a486-ee6ebabc47ad">
+
 
 
 
